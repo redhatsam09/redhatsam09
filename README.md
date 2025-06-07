@@ -1,37 +1,66 @@
-<h1 align="center">👋 Sayandeep Dutta</h1>
+<div align="center">
+  <a href="https://www.linkedin.com/in/samdutta07/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+</div>
 
-<p align="center">
-  <b>🎓  Student | 🌐 Open-source enthusiast | 🔒 Web Pentesting | 🐧 Linux | 🚀 </b>
-</p>
+###
 
-<h2 align="center">👨‍💻 About Me</h2>
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=redhatsam09.redhatsam09&"  />
+</div>
 
-<p align="center">Hello! I'm Sayandeep Dutta, passionate about open-source projects and a keen interest in web pentesting, Linux, and various other technical skills. I enjoy exploring and learning new technologies to expand my knowledge.</p>
+###
 
-<h2 align="center">🔧 Skills</h2>
+<h2 align="left">👩‍💻  Sayandeep Dutta</h2>
 
-<ul align="center">
-  <li>🔒 Web Pentesting</li>
-  <li>🐧 Linux</li>
-</ul>
+###
 
-<h2 align="center">🚀 Projects</h2>
+<h4 align="left">I am Sayandeep Dutta pursing computer science at SRM University. Undergraduate freshman with experience in web application penetration testing. Passionate about cybersecurity and machine learning. Focused and dedicated to research and contribute every day. 🚀</h4>
 
-<h2 align="center">📞 Contact Me</h2>
+###
 
-<p align="center">
-  <b>Email:</b> redhatsam07@gmail.com<br>
-  <b>Twitter:</b> <a href="https://twitter.com/SamD3tta">@TwitterHandle</a>
-</p>
+<h3 align="left">🛠 Language and tools</h3>
 
-<h2 align="center">🖼️ Profile Picture / NFTs</h2>
+###
 
-<p align="center">
-  <img src="https://i.seadn.io/gcs/files/0e428e0a1d5688f005af68231494e571.png" alt="Profile Picture" width="200">
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+</div>
 
+###
 
+<h3 align="left">🔥   My Stats :</h3>
 
+###
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=redhatsam09&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
+###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/redhatsam09/redhatsam09/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/redhatsam09/redhatsam09/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/redhatsam09/redhatsam09/output/pacman-contribution-graph.svg">
+</picture>
+
+###
