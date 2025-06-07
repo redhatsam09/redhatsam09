@@ -1,12 +1,12 @@
 <h1 align="center">👋 Sayandeep Dutta</h1>
 
 <p align="center">
-  <b>🎓 High school student | 🌐 Open-source enthusiast | 🔒 Web Pentesting | 🐧 Linux | 🚀 </b>
+  <b>🎓  Student | 🌐 Open-source enthusiast | 🔒 Web Pentesting | 🐧 Linux | 🚀 </b>
 </p>
 
 <h2 align="center">👨‍💻 About Me</h2>
 
-<p align="center">Hello! I'm Sayandeep Dutta, a high school student with a passion for open-source projects and a keen interest in web pentesting, Linux, and various other technical skills. I enjoy exploring and learning new technologies to expand my knowledge.</p>
+<p align="center">Hello! I'm Sayandeep Dutta, passionate about open-source projects and a keen interest in web pentesting, Linux, and various other technical skills. I enjoy exploring and learning new technologies to expand my knowledge.</p>
 
 <h2 align="center">🔧 Skills</h2>
 
