@@ -17,7 +17,7 @@
 
 ###
 
-<h4 align="left">I am Sayandeep Dutta pursing computer science at SRM University. Undergraduate freshman with experience in web application penetration testing. Passionate about cybersecurity and machine learning. Focused and dedicated to research and contribute every day. 🚀</h4>
+<h4 align="left">I am Sayandeep Dutta pursing computer science at SRM University. Undergraduate sophomore with experience in web application penetration testing. Passionate about cybersecurity and machine learning. Focused and dedicated to research and contribute every day. 🚀</h4>
 
 ###
 
